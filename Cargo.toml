@@ -1,0 +1,9 @@
+[package]
+name = "hello-actix"
+version = "0.1.0"
+authors = ["Joaquín Gumucio <jjgumucio@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "0.7"
+mongo_driver = "0.12.1"
