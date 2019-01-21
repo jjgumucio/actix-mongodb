@@ -5,5 +5,6 @@ authors = ["Joaquín Gumucio <jjgumucio@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+actix = "0.7.9"
 actix-web = "0.7"
 mongo_driver = "0.12.1"
